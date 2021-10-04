@@ -1,0 +1,5 @@
+out.cpp
+
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-debug-coverage/
