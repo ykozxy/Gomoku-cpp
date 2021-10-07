@@ -1,6 +1,6 @@
 # Gomoku-cpp
 
-This is a [botzone](https://www.botzone.org.cn/) (Botzone H: 609678ca66ecf10ef5df1770) Gomoku AI written in C++. 
+This is a [botzone](https://www.botzone.org.cn/) (Botzone ID: 609678ca66ecf10ef5df1770) Gomoku AI written in C++. 
 
 ### Algorithms/Optimizations used
 - Minimax algorithm
